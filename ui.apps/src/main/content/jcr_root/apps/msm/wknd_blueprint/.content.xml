@@ -3,9 +3,9 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:template="/libs/wcm/msm/templates/blueprint"
+        jcr:description="Creates blueprint config for WKND Sites Project"
         jcr:primaryType="nt:unstructured"
         jcr:title="WKND Sites Project Blueprint"
-        jcr:description="Creates blueprint config for WKND Sites Project"
         sling:resourceType="wcm/msm/components/blueprint"
         sitePath="/content/wknd/language-masters">
         <dialog/>
